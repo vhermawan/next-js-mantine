@@ -6,7 +6,6 @@ export default function Document() {
       <Head />
       <body>
         <p>testing</p>
-        <p>testing lagi</p>
         <Main />
         <NextScript />
       </body>
