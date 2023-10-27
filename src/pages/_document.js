@@ -8,6 +8,7 @@ export default function Document() {
         <p>testing</p>
         <Main />
         <NextScript />
+        <p>footer</p>
       </body>
     </Html>
   )
