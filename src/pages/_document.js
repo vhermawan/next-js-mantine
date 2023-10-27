@@ -9,6 +9,7 @@ export default function Document() {
         <Main />
         <NextScript />
         <p>footer</p>
+        <p>footer 2</p>
       </body>
     </Html>
   )
